@@ -1,2 +1,2 @@
 require "omniauth-starmade/version"
-require 'omniauth/strategies/twitter'
+require 'omniauth/strategies/starmade'
